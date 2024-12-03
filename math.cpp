@@ -1,3 +1,7 @@
+// SHane Pricken
+// math lab
+// 12-3-24
+
 // Online C++ compiler to run C++ program online
 #include <iostream>
 #include <cmath>
